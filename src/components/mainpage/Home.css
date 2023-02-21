@@ -1,0 +1,20 @@
+.homeSlide h1 {
+    font-size: 45px;
+    line-height: 55px;
+    margin: 50px 0 20px 0;
+  }
+  .homeSlide p {
+    margin: 20px 0;
+  }
+  .box{
+    position: relative;
+  }
+ .right{
+    position: absolute;
+    right: 18px;
+    top: 240px;
+    color: white;
+    font-size: 17px;
+    font-weight: 400;
+    font-family: 'Poppins';
+ }
